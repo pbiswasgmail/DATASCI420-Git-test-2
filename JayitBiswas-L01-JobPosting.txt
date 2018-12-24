@@ -1,0 +1,28 @@
+Jayit Biswas
+Adding a line to test Git
+12/22/18
+DATASCI420
+Lesson 1 Assignment: Job Posting
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+URL: https://tas-jhuapl.taleo.net/careersection/2/jobdetail.ftl?job=300002&src=NGP-11605
+
+From the employer's website, the required qualifications for this positions are as follows:
+
+-BS degree in statistics or a related technical field with at least three years of experience performing statistical analysis. 
+-Experience using statistical programming languages such as R or SAS. 
+-Ability to prioritize work and manage time to complete multiple simultaneous projects. 
+-Ability to effectively communicate, orally and in writing, analytic results to study team and internal management.
+
+Right now, I have a BS, majoring in Bioengineering, minoring in Applied Mathematics, so I've met the first criteria. I have had at least 1 year of experience of advanced statistical techniques and modeling in R during my undergraduate education, and roughly 2.5 years of data science experience with R after graduation. During my data science experience after graduation, I regularly had to report my findings to a committee of faculty for review and guidance. Because of this, I think I will meet the second and fourth requirements. I think the area that I have the greatest room to improve is time management and prioritization, but there have been many occasions throughout my education where I have successfully complete multiple projects and tasks simultaneously.
+
+The employer also had a list of desired qualifications, that are as follows:
+
+-MS degree in statistics or a related technical field with at least three years of experience performing statistical analysis.  
+-Previous experience assisting scientists and engineers in design and analysis of experiments through either computer simulation, physical testing, or surveys. 
+-Willingness to work in cross-disciplinary teams and learn details of the application to ensure the statistical analysis being developed is appropriate.
+-Experience with data mining, statistics, and machine learning.
+-Experience with reliability modeling and survival analysis
+
+While I do not have a MS in statistics, I do have at least 3.5 years of experience with statistical analyses. Part of my experience was working with a cancer biology lab, assisting a cross-disciplinary group of research scientists by building a model of which genes in a specific cancer were the most relevant in diagnosis and treatment. From this experience, I think that I almost meet the requirements layed out in the first three criteria. Regarding the fourth criteria, I have roughly 3.5 years of statistical experience, roughly 2 years of data mining experience, and from previous courses in this series I have an introductory experience with machine learning. The only criteria on this list that I don't have specific experience with is the last one. I haven't done any projects specifically involving reliability modeling or survival analysis, but have worked on projects tangentially related to these topics. And of course, my statistical and data science knowledge is transferable.
+
